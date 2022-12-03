@@ -1,2 +1,2 @@
 # GradientDescent
-Implementattion de l'algorithme de GradientDescent
+Implementation de l'algorithme de GradientDescent
